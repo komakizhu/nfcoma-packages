@@ -1,0 +1,18 @@
+Origin: NFComa
+Label: NFComa
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm64e
+Components: main
+Description: NFComa Apple Pay Alert Guard package source
+Date: Tue, 03 Nov 2026 13:46:40 GMT
+MD5Sum:
+ 92d075627e5380824f1f696eef498821              718 main/binary-iphoneos-arm64e/Packages
+ 4a0812a3e104f64aeb828b62e71ec96b              480 main/binary-iphoneos-arm64e/Packages.gz
+SHA1:
+ 877dc671270e59ee31a22416e98ccecdc7837411              718 main/binary-iphoneos-arm64e/Packages
+ 63b84e3f5084922004c20e7eadfbe771c1947c13              480 main/binary-iphoneos-arm64e/Packages.gz
+SHA256:
+ ebe0706ff70c9ab1b9093482fc06e9b879ee98f08f717fad453d93c4826b275e              718 main/binary-iphoneos-arm64e/Packages
+ 268096a5be5195341a2f6d61ae7a4c68c677dcf9b624936e71a14a22e715587f              480 main/binary-iphoneos-arm64e/Packages.gz
